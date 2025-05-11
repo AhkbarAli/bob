@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+    <defs>
+        <style>
+            .cls-2{fill:#e31837}
+        </style>
+    </defs>
+    <path fill="none" d="M0 0h24v24H0z" id="_24_X_24_BOX" data-name="24 X 24 BOX"/>
+    <g id="ICON_OUTLINE" data-name="ICON OUTLINE">
+        <path class="cls-2" d="M17 10V7A5 5 0 0 0 7 7v3H3v12h18V10zM8 7a4 4 0 0 1 8 0v3H8zm12 14H4V11h16z"/>
+        <path class="cls-2" d="M11.5 13h1v6h-1z"/>
+    </g>
+</svg>

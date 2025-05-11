@@ -1,0 +1,1 @@
+(function(define){define("utilities/platform/widget-details",["exports"],function(exports){"use strict";Object.defineProperty(exports,"__esModule",{value:true});exports.default={widgetName:"secure-ah-omni-channel-auth-widget",widgetVersion:"3.0.0"}});})(window.sparta.require["secure-ah-omni-channel-auth-widget"]["3.0.0"].define)
